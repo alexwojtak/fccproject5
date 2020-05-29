@@ -1,0 +1,25 @@
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: lightblue;
+    }
+  }
+  ul{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      background-color: #FFFFFF;
+  }
+  li {
+      display: inline;
+      color: #000000;
+      text-decoration: none;
+      margin:21px 4px;
+      padding: 20px 16px;
+  }
+  #navbar{
+      position: fixed;
+      width: 49%;
+      left: 0;
+      margin-top: 0px;
+      top: 0;
+  }
